@@ -4,7 +4,7 @@ My biggest challenge was getting margins and padding to cooperate. I started the
 
 I think getting the font-size for the descriptions proved challenging. That's where I got stuck and didn't figure out how to get the same thinness as the screenshot's text.
 
-To improve the page, I think going back and dynamically rendering the steps component would be better. My MVP approach works but could be cleaner. And definitely will improve the spacing of the elements and the font-size/font-weight.
+To improve the page, I think going back and dynamically rendering the steps component would be better. My MVP approach works but could be cleaner. And definitely will improve the spacing of the elements and the font-size/font-weight. Button currently is not clickable so that needs to be changed.
 
 
 ## Getting Started
