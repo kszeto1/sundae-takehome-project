@@ -5,6 +5,7 @@ body {
 img {
   max-width: 100%;
   max-height: 336px;
+  margin-ri
 }
 
 .how-steps-container {
@@ -25,4 +26,36 @@ img {
   color: white;
   line-height: 50px;
   font-size: 21px;
+  margin-top: 25px;
+  position: absolute;
+}
+
+.list-item {
+  position: relative;
+  flex: 1;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.list-steps {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.text-item {
+  padding-left: 75px;
+  margin-top: 30px;
+  padding-top: 15px;
+  position: relative;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.description {
+  font-size: 95%;
+  line-height: 1rem;
 }
